@@ -1,6 +1,6 @@
 # NFT Viewer
 
-Have you ever wanted to see the NFTs you have on Ethereum wallets? Now you easily can using [NFT Viewer]().
+Have you ever wanted to see the NFTs you have on Ethereum wallets? Now you easily can using [ethNFTViewer.com](https://www.ethnftviewer.com/).
 
 https://user-images.githubusercontent.com/12773166/149678752-27d1232d-ca84-487d-8900-0bead9b9e24a.mp4
 
