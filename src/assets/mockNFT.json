@@ -1,0 +1,56 @@
+{
+  "balance": "1",
+  "contract": {
+      "address": "0x9abb7bddc43fa67c76a62d8c016513827f59be1b"
+  },
+  "id": {
+      "tokenId": "0x00000000000000000000000000000000000000000000000000000000000012bb",
+      "tokenMetadata": {
+          "tokenType": "ERC721"
+      }
+  },
+  "title": "#4795 Silicon",
+  "description": "POW NFT 4795. A Silicon atom, created with Proof of Work NFT mining.\n\nPOW NFT atoms are generated according to a scarcity model relative to the natural distribution of elements. The element, ionic charge and generative properties of the render are all determined by the token’s hash – an unpredictable result of the mining process.\n\nAtoms are rendered as a Live Model, this model is contained in the metadata and can be displayed in any browser. The video is a short capture of the live model. The metadata also contains a poster, which is a still rendering of the Atom optimised for print.\n\nPOW NFTs are the first ever mineable NFT, and are mined with an increasing level of difficulty using Proof of Work – a fundamental feature of blockchain first described in Satoshi Nakamoto’s Bitcoin whitepaper. When a POW NFT is mined, a unique and increasingly rare ERC-721 token is created. The mining process prevents front-running and network congestion while maintaining security, and parallel mining-difficulty and price-demand-curves create natural, market-driven scarcity. \n",
+  "externalDomainViewUrl": "https://www.pownftmetadata.com/t/4795",
+  "media": {
+      "uri": "https://www.pownftmetadata.com/v/4795"
+  },
+  "alternateMedia": [
+      {
+          "uri": "https://www.pownftmetadata.com/v/4795"
+      }
+  ],
+  "metadata": {
+      "name": "#4795 Silicon",
+      "description": "POW NFT 4795. A Silicon atom, created with Proof of Work NFT mining.\n\nPOW NFT atoms are generated according to a scarcity model relative to the natural distribution of elements. The element, ionic charge and generative properties of the render are all determined by the token’s hash – an unpredictable result of the mining process.\n\nAtoms are rendered as a Live Model, this model is contained in the metadata and can be displayed in any browser. The video is a short capture of the live model. The metadata also contains a poster, which is a still rendering of the Atom optimised for print.\n\nPOW NFTs are the first ever mineable NFT, and are mined with an increasing level of difficulty using Proof of Work – a fundamental feature of blockchain first described in Satoshi Nakamoto’s Bitcoin whitepaper. When a POW NFT is mined, a unique and increasingly rare ERC-721 token is created. The mining process prevents front-running and network congestion while maintaining security, and parallel mining-difficulty and price-demand-curves create natural, market-driven scarcity. \n",
+      "attributes": [
+          {
+              "display_type": "number",
+              "trait_type": "Generation",
+              "value": "12"
+          },
+          {
+              "trait_type": "Element",
+              "value": "Silicon"
+          },
+          {
+              "trait_type": "Period",
+              "value": "3"
+          },
+          {
+              "trait_type": "Group",
+              "value": "14"
+          },
+          {
+              "trait_type": "Category",
+              "value": "Metalloid"
+          }
+      ],
+      "poster": "https://www.pownftmetadata.com/p/4795",
+      "image": "https://www.pownftmetadata.com/v/4795",
+      "external_url": "https://www.pownft.com/collection/4795",
+      "background_color": "000000",
+      "liveModel": "https://www.pownftmetadata.com/l/4795.html"
+  },
+  "timeLastUpdated": "2022-01-15T17:20:52.939Z"
+}
