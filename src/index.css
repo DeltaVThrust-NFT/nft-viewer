@@ -1,16 +1,30 @@
-html, body, #root, main {
+html {
+  max-width: 100vw;
+}
+
+html, body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  align-items: center;
   background: linear-gradient(90deg, #00F8DA 0.09%, #A700F5 99.92%);
   color: #303030;
   display: flex;
   flex-direction: column;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   font-size: 16px;
+  height: 100%;
+  min-height: 100%;
   margin: 0;
-  min-height: 100vh;
-  width: 100%;
+}
+
+#root, main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 h1 {
@@ -18,4 +32,6 @@ h1 {
   font-size: 5rem;
   font-weight: 100;
   margin: 50px 0 0;
+  padding: 0 20px;
+  text-align: center;
 }

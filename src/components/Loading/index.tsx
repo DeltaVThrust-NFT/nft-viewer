@@ -1,11 +1,11 @@
 // Relative imports.
-import Wave from '../../assets/react-svgs/Wave';
+import waveSVG from '../../assets/svgs/wave.svg';
 
 const Loading = () => {
   return (
     <main className="homepage">
       <p className="warning">Loading your NFTs...</p>
-      <Wave />
+      <img alt="wave" className="wave" src={waveSVG} />
     </main>
   );
 }
